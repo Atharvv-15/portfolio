@@ -25,7 +25,7 @@ export function TabsDemo() {
     {
       title: "AI Companion",
       value: "playground",
-      description: "Description for Project 3",
+      description: "Advanced SaaS AI Companion",
       tech: "NextJS, TailwindCSS, MongoDB, Socket.io",
       image: "/ai-companion.png",
       link: "https://ai-companion-seven.vercel.app/",
